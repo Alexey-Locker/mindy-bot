@@ -4,7 +4,8 @@
     "description": "Bot Mindy",
     "main": "main.js",
     "scripts": {
-        "start": "node main.js"
+        "start": "node main.js",
+        "install": "node install"
     },
     "author": "OleksiiHazhyiskyi <alexey.locker@gmail.com>",
     "license": "ISC",
