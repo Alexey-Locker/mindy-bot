@@ -1,0 +1,14 @@
+{
+    "name": "bot",
+    "version": "1.0.0",
+    "description": "Bot Mindy",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "OleksiiHazhyiskyi <alexey.locker@gmail.com>",
+    "license": "ISC",
+    "dependencies": {
+        "ws": "^7.3.0"
+    }
+}
